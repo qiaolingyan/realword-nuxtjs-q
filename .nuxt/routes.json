@@ -1,0 +1,71 @@
+[
+  {
+    "path": "/",
+    "component": "E:\\\\lagou学习\\\\lagou笔记\\\\part3\\\\realword-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "E:\\\\lagou学习\\\\lagou笔记\\\\part3\\\\realword-nuxtjs\\\\pages\\\\home",
+        "_name": "_753e7276"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "E:\\\\lagou学习\\\\lagou笔记\\\\part3\\\\realword-nuxtjs\\\\pages\\\\login",
+        "_name": "_321f4b7a"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "E:\\\\lagou学习\\\\lagou笔记\\\\part3\\\\realword-nuxtjs\\\\pages\\\\login",
+        "_name": "_321f4b7a"
+      },
+      {
+        "path": "/profile",
+        "name": "profile",
+        "component": "E:\\\\lagou学习\\\\lagou笔记\\\\part3\\\\realword-nuxtjs\\\\pages\\\\profile",
+        "children": [
+          {
+            "path": "",
+            "name": "myArticles",
+            "component": "E:\\\\lagou学习\\\\lagou笔记\\\\part3\\\\realword-nuxtjs\\\\pages\\\\profile\\\\components\\\\article-list.vue",
+            "_name": "_4df962f4"
+          },
+          {
+            "path": "/profile/favorites",
+            "name": "favorites",
+            "component": "E:\\\\lagou学习\\\\lagou笔记\\\\part3\\\\realword-nuxtjs\\\\pages\\\\profile\\\\components\\\\article-list.vue",
+            "_name": "_4df962f4"
+          }
+        ],
+        "_name": "_752cb3fa"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "E:\\\\lagou学习\\\\lagou笔记\\\\part3\\\\realword-nuxtjs\\\\pages\\\\settings",
+        "_name": "_790b2b09"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "E:\\\\lagou学习\\\\lagou笔记\\\\part3\\\\realword-nuxtjs\\\\pages\\\\settings",
+        "_name": "_790b2b09"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "E:\\\\lagou学习\\\\lagou笔记\\\\part3\\\\realword-nuxtjs\\\\pages\\\\editor",
+        "_name": "_2ae1dc5a"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "E:\\\\lagou学习\\\\lagou笔记\\\\part3\\\\realword-nuxtjs\\\\pages\\\\article",
+        "_name": "_a7982d60"
+      }
+    ],
+    "_name": "_134428e0"
+  }
+]
